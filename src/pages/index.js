@@ -1,3 +1,5 @@
-export const HomePage = () => {
-    return <h1>Hello, world!</h1>
+function HomePage() {
+    return <div>Hello, world!</div>;
 }
+
+export default HomePage;
